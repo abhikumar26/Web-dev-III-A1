@@ -12,6 +12,6 @@ if (operation == "add"){
 } else if (operation == "Divide"){
     console.log(`Result- ${num1/num2}`);
 } else{
-    console.log("Invalid opration Performed...! PLEASE TRY AGAIN");
+    console.log("Invalid opration Performed...! PLEASE TRY AGAIN")
     
 }
