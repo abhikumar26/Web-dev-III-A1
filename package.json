@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  },
+  "name": "smart_utility_toolkit",
+  "version": "1.0.0",
+  "description": "The Smart Utility Toolkit is a hands-on lab assignment for **Web Dev III (Node.js & Express Backend)**.  \r It demonstrates the fundamentals of backend development using **Node.js core modules** without external packages.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhikumar26/Web-dev-III-A1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhikumar26/Web-dev-III-A1/issues"
+  },
+  "homepage": "https://github.com/abhikumar26/Web-dev-III-A1#readme"
+}
