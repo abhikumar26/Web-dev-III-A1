@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "crypto": "^1.0.1",
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
   },
@@ -7,7 +8,6 @@
   "version": "1.0.0",
   "description": "The Smart Utility Toolkit is a hands-on lab assignment for **Web Dev III (Node.js & Express Backend)**.  \r It demonstrates the fundamentals of backend development using **Node.js core modules** without external packages.",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
