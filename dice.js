@@ -5,6 +5,6 @@ function rolldice(){
     console.log("Dice rolled" , random);
 }
 
-for (i=1; i=5; i++){
+for (i=0; i<5; i++){
     rolldice()
 }
