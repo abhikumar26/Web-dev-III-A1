@@ -7,4 +7,5 @@ function rolldice(){
 
 for (i=0; i<5; i++){
     rolldice()
+    
 }
